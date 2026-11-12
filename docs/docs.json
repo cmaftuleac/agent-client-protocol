@@ -212,7 +212,6 @@
             "group": "Active",
             "pages": [
               "rfds/streamable-http-websocket-transport",
-              "rfds/subagents",
               "rfds/mcp-over-acp",
               {
                 "group": "v2",
@@ -238,7 +237,7 @@
           },
           {
             "group": "Preview",
-            "pages": []
+            "pages": ["rfds/subagents"]
           },
           {
             "group": "Completed",
